@@ -1,8 +1,7 @@
-# RUT-Proj2-Cars
+# 14. Model-View-Controller (MVC) Challenge: Tech Blog
 ## Description
- Have you ever wanted to buy a car, but been confused or mislead by today’s common car shopping sites?
-A to B is here to help, with a streamlined interface! Create an account to post a car to sell or save cars you’re interested in buying.
- 
+assignment 14.
+was built off of group project 2 to meet the requirements of this assignment.(project 2 will be linked in the repository section)
 
   
   ## Table of Contents
@@ -19,19 +18,19 @@ A to B is here to help, with a streamlined interface! Create an account to post 
   4: Now open http://localhost:3001
 
   ## Credit
-  Hannah Bush, Angelo Saverino, Dennis Moloney, Salieu Sarr, Armond Rodriguez
+  Angelo Saverino
 
 
   ## Website
-  https://a-to-b-cars-rut-proj2.herokuapp.com/homepage
+  https://mvc-tech-blog-ru.herokuapp.com/homepage
 
   ## Repository
-  https://github.com/dmoloney5/RUT-Proj2-Cars.gitgit
+  https://github.com/Ang543/mvc-tech-blog.git
+  Project 2: https://github.com/dmoloney5/RUT-Proj2-Cars.git
 
   ## License
   ### The following apps were used: 
   Nodejs, Express, MySQL, Sequelize, MVC, bcrypt, handlebars, Tailwindcss, flowbite, express-session, and dotenv
   
-   ## ScreenShot
-  ![screenshot](https://github.com/dmoloney5/RUT-Proj2-Cars/blob/main/images/homepage.jpg)
+ 
 
